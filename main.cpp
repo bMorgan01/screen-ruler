@@ -70,7 +70,7 @@ int main() {
     sizeBox.setOutlineThickness(1);
 
     Font arial;
-    arial.loadFromFile("./data/arial.ttf");
+    arial.loadFromFile("arial.ttf");
     Text measurement(to_string(window.getSize().x), arial);
     measurement.setFillColor(Color::Black);
     measurement.setCharacterSize(16);

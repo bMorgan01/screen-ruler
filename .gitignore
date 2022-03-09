@@ -42,3 +42,5 @@ CMakeLists.txt
 
 # Release
 Ruler Release
+*.sed
+*.EXE
